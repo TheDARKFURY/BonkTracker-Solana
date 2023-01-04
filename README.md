@@ -35,7 +35,7 @@ To start the bot, run the command below:
 $ node index.js
 ```
 
-## How to use
+## Learn How to configure and make your own Telegram Bot
 
-Visit your bot on Telegram and type `/token $BONK` to query the token metadata.
+Read the Blog here -> https://dev.to/soham/how-to-create-a-telegrambot-using-zettablock-graphql-api-lgl
 
