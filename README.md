@@ -12,7 +12,7 @@ Clone the repository and install the dependencies.
 
 ```bash
 git clone https://github.com/TheDARKFURY/EarnWeb3DAO---ZettaBlockAPI.git
-cd earnweb3DAO-ZettaBlock
+cd EarnWeb3DAO---ZettaBlockAPI
 yarn install
 ```
 
